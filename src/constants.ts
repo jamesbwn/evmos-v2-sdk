@@ -1,9 +1,8 @@
 import JSBI from 'jsbi'
 
-export const FACTORY_ADDRESS = '0x81BC50a2df9cE424843e3c17110E1ab1FedCD4b8' // Diffu Factory on TestNet of EVMOS
-// export const FACTORY_ADDRESS = '0x6aBdDa34Fb225be4610a2d153845e09429523Cd2' // Diffu Factory on Mainnet
+export const FACTORY_ADDRESS = '0x3E91CeE56B1A6d16A8d60A269325bDe05C563979' // Tyche Factory on TestNet of EVMOS
 
-export const INIT_CODE_HASH = '0xa192c894487128ec7b68781ed7bd7e3141d1718df9e4e051e0124b7671d9a6ef'
+export const INIT_CODE_HASH = '0xb50cb8b977ceec295d05ff845f69eea4b7b221b185f4bb25e020a6bbce05dc6b'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
